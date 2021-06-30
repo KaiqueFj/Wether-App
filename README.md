@@ -29,7 +29,7 @@ Go to https://console.hgbrasil.com/documentation/weather and click on 'create ne
 
 ```
 # Clone the repository
-$ git clone https://github.com/KaiqueCampos/WeatherApp.git
+$ git clone https://github.com/KaiqueFj/Wether-App.git
 
 # Enter the repository
 $ cd WeatherApp
