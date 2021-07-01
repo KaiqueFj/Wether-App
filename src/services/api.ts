@@ -1,5 +1,5 @@
 import axios from 'axios'
-export const key = 'YOUR_KEY'
+export const key = 'db9d7773'
 
 const api = axios.create({
     baseURL: 'http://api.hgbrasil.com'
